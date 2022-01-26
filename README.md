@@ -8,4 +8,4 @@ Esta es con visual Studio Code
 
 Linea dos corrigiendo los problemas
 
-Esta linea la guardere en terminal
+Esta linea la guardare en terminal
